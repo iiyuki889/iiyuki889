@@ -1,5 +1,5 @@
 # My GitHub Profile
-## 初めまして
+## Hello there, I'm ori_yuki :wave:
 ### 自己紹介
 ## 所属
 ## 技術スタック
