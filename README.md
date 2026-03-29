@@ -9,9 +9,9 @@
 
 ## Tech Stack/技術スタック
 ### language/言語
-- Familiar
+- Familiar/経験
     - python: 自動運転システムおよび、画像認識AIの作成に使用
-- Learning
+- Learning/学習中
     - Rust
 
 ### AI
@@ -40,8 +40,6 @@
 
 ## 興味分野
 - 車載システム　自動運転　モビリティに興味があります。
-## 最近の活動
-
 ## 外部リンク
 
 **[石巻専修大学 モビリティ研究会ブログ](https://mobilitylab2025.blogspot.com/)**
