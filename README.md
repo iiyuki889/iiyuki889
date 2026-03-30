@@ -2,7 +2,7 @@
 ## Hello there, I'm ori_yuki :wave:
 ### About Me/自己紹介
 - 石巻専修大学　理工学部　情報電子工学科  [在学中]
-- 高校３年間　弓道部で活動し大学でも１年間活動したのちモビリティ研究会へ
+- 高校３年間弓道部で活動し大学でも１年間活動したのち、モビリティ研究会へ
 - 現在は、モビリティ研究会でEVモビリティの自動運転システムの研究・開発に取り組んでいます。
 ### Department/所属
 石巻専修大学　梅山研究室　モビリティ研究会
@@ -27,6 +27,7 @@
 - OS: Linux(Ubuntu), Windows
 - Dev Tools: Git, Github, VScode, Vim, Docker
 - AI Tools: github copilot, Gemini, ChatGPT, NotebookLM, Perplexity
+- tool: Notion
 
 ### Development Portfolio/開発記録
 
