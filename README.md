@@ -1,6 +1,9 @@
 # My  Profile
+
 ## Hello there, I'm ori_yuki
+
 ## About Me/自己紹介
+
 - 石巻専修大学　理工学部　情報電子工学科  [在学中]
 - 高校３年間弓道部で活動し大学でも１年間活動したのち、モビリティ研究会へ
 - 趣味  
@@ -8,31 +11,37 @@
     バイクで風を感じるのが好き  
     おいししいものを作って食べるのが楽しみ
 
-
 ### 興味分野
+
 車載システム　自動運転　モビリティに興味があります。
 
 ### Department/所属
+
 **石巻専修大学 モビリティ研究会**  
 EVモビリティの自動運転システムの研究・開発に取り組んでいます。
 
 ## Tech Stack/技術スタック
+
 ### language/言語
+
 - Familiar/経験
-    - python: 自動運転システムおよび、画像認識AIの作成に使用
+  - python: 自動運転システムおよび、画像認識AIの作成に使用
 - Learning/学習中
-    - Rust
+  - Rust
 
 ### AI
+
 - Frameworks: Pytorch, TensorFlow, Numpy
 - Libraries: OpenCV
 
 ### Hardware & Embedded/ハードウェア・組込み
+
 - Single Board Computers: **NVIDIA Jetson Orin Nano**, Raspberry Pi
 - Microcontrollers: Arduino
 - 電子工作
 
 ### Tool & Environment/開発ツール・環境
+
 - OS: Linux(Ubuntu), Windows
 - Dev Tools: Git, Github, VScode, Vim, Docker
 - AI Tools: github copilot, Gemini, ChatGPT, NotebookLM, Perplexity
