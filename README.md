@@ -12,3 +12,6 @@ Welcome to my GitHub profile.
 
 勉強中の言語：Python・Rust・TypeScript  
 <sub>Currently learning Python, Rust, and TypeScript.</sub>
+
+私の個人的なBlog  
+[yumitomo-Blog](https://yumitomo.yumiyomo-work.workers.dev)
